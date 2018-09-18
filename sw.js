@@ -3,87 +3,71 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox
 workbox.precaching.precacheAndRoute([
   {
     "url": "icons-actionbar.html",
-    "revision": "894cf377b687e7f554a7c2fa05c05dae"
+    "revision": "61685c01cc6c2b8cec602d69f117e40e"
   },
   {
     "url": "icons-app-shortcut.html",
-    "revision": "4516c1cdbcdbdb746ee10cd5f7ac9086"
+    "revision": "37a73db319f0c8665ddbfd4a5ed5273c"
   },
   {
     "url": "icons-generic.html",
-    "revision": "dd89de0f3bc5d985fff71d5350818b8c"
+    "revision": "a49b15e53b0d20622f9ebeba2132b468"
   },
   {
     "url": "icons-launcher.html",
-    "revision": "bd605aca3f4c8125eb81507c02397ae4"
+    "revision": "32b0ddc9ae780b4e20c595005a04c0a1"
   },
   {
     "url": "icons-notification.html",
-    "revision": "974a62d3e0047238c35cb37d74529ce3"
+    "revision": "a865941d056cafe59836f8dc01309ecc"
   },
   {
     "url": "index.html",
-    "revision": "a95ce69ebcc241fa9e8cf622c442c5d2"
+    "revision": "77cb6aeb83cc6ae6411145bac26bd8d2"
   },
   {
     "url": "nine-patches.html",
-    "revision": "20a6daa6e3f1b46fa66eb8bf267de505"
-  },
-  {
-    "url": "lib/jquery/dist/jquery.min.js",
-    "revision": "4a356126b9573eb7bd1e9a7494737410"
-  },
-  {
-    "url": "older-version/lib/jquery.min.js",
-    "revision": "b8d64d0bc142b3f670cc0611b0aebcae"
-  },
-  {
-    "url": "lib/spectrum/spectrum.css",
-    "revision": "c4570cb2ee0a64de0fb186a50b5679ea"
-  },
-  {
-    "url": "lib/spectrum/spectrum.js",
-    "revision": "5f141b16047e7623b415b8bf9d8e0218"
-  },
-  {
-    "url": "older-version/lib/spectrum/spectrum.js",
-    "revision": "7c0061805fb7474308c6bc827be17991"
+    "revision": "bc4911d92d2633f219c4699232218c91"
   },
   {
     "url": "res/generator-thumbs/icon-animator.svg",
-    "revision": "b49251ded9f4a4d7cbfdbbaee5f53583"
+    "revision": "47d59b4fd0289994d2f8bd27efacdff1"
   },
   {
     "url": "res/generator-thumbs/icons-actionbar.svg",
-    "revision": "f9772feed41a9be82d0d48b23fce8a4c"
+    "revision": "bdacfa754719b69a03734fa15b2c2e0c"
   },
   {
     "url": "res/generator-thumbs/icons-app-shortcut.svg",
-    "revision": "e9942bb2f82ee4bf1118b8caf028d4a6"
+    "revision": "50baa429922a87fb96080fc6c8cecd0a"
   },
   {
     "url": "res/generator-thumbs/icons-generic.svg",
-    "revision": "74a1ba2cc0d5c07cd9f813bdae7e80e8"
+    "revision": "7e9aaa9edeaf210c7afac117cf094192"
   },
   {
     "url": "res/generator-thumbs/icons-launcher.svg",
-    "revision": "8bf87c3256a3c22c0ce8a0961aa9c50e"
+    "revision": "ac624b8aabda5851413f3ccfd252b80d"
   },
   {
     "url": "res/generator-thumbs/icons-notification.svg",
-    "revision": "176e148dfca66c91af08c765f1240b02"
+    "revision": "cfc9273c4ce8a151fa5d25dbded7914d"
   },
   {
     "url": "res/generator-thumbs/nine-patches.svg",
-    "revision": "80d3f82955bdd814948bb82d1b4a06b5"
+    "revision": "c37457a837ee23a6c1981b5d993ee72e"
   },
   {
-    "url": "scripts/app.js",
-    "revision": "4e15c0b26e1b535aa139ee30c7e73275"
+    "url": "app.js",
+    "revision": "f64dd18399fe197ab36a0d7b73709a1f"
   },
   {
-    "url": "styles/app.css",
-    "revision": "bfde59088c1b311065a639b2e7302d3d"
+    "url": "vendor.js",
+    "revision": "e7ed041554d1603a964b39a3b1010a9d"
+  },
+  {
+    "url": "app.css",
+    "revision": "c7ac3bad6868fa8632b47f98361dfaa5"
   }
 ]);
 
